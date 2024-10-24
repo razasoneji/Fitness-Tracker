@@ -61,7 +61,7 @@ Example connection string:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/fitness-tracker.git
+   git clone https://github.com/razasoneji/Fitness-Tracker.git
    ````
 ## Future Enhancements
 -User Authentication: Add authentication and authorization for users.
