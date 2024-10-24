@@ -1,6 +1,6 @@
 # Fitness Tracker
 
-Fitness Tracker is a simple web application built using **ASP.NET Framework WebForms** that focuses on managing CRUD operations through web forms. This project allows users to track their fitness data by interacting with a SQL Server database, but it currently lacks authentication.
+Fitness Tracker is a simple web application built using **ASP.NET Framework WebForms** that focuses on managing CRUD operations through web forms. This project allows users to track their fitness data by interacting with a SQL Server database.
 
 ## Features
 
@@ -9,7 +9,7 @@ Fitness Tracker is a simple web application built using **ASP.NET Framework WebF
 - **Nutrition Management**: Record and view daily nutrition data.
 - **Progress Monitoring**: Track weight, BMI, and other progress metrics over time.
   
-All these functionalities are implemented with a focus on **database transactions** using SQL Server and ADO.NET.
+All these functionalities are implemented with a focus on **database transactions** using SQL Server and ADO.NET , also it currently lacks authentication which can implemented as a future enhancement.
 
 ## Technologies Used
 
